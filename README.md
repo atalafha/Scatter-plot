@@ -19,7 +19,7 @@ This Shiny application allows users to select variables from the `mtcars` datase
 3. Run the app using R or RStudio:
 ```R
 library(shiny)
-runApp('path_to_app_directory')
+runApp('https://github.com/talafha90/Scatter-plot.git')
 ``` 
 ## Data Source
 
